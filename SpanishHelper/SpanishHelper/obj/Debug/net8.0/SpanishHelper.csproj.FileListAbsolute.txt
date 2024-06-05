@@ -1,0 +1,14 @@
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\bin\Debug\net8.0\SpanishHelper.exe
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\bin\Debug\net8.0\SpanishHelper.deps.json
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\bin\Debug\net8.0\SpanishHelper.runtimeconfig.json
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\bin\Debug\net8.0\SpanishHelper.dll
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\bin\Debug\net8.0\SpanishHelper.pdb
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.dll
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\refint\SpanishHelper.dll
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.pdb
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\SpanishHelper.genruntimeconfig.cache
+C:\Users\Ghost\source\repos\SpanishHelper\SpanishHelper\obj\Debug\net8.0\ref\SpanishHelper.dll
